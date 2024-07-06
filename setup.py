@@ -18,5 +18,5 @@ version="0.0.1",
 Author="Gaurav",
 Author_Email = "patilgaurav77606@gmail.com",
 packages=find_packages(),
-install_requires=get_packages("requirements.txt")
+install_requires=get_requirements("requirements.txt")
 )
